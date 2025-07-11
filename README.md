@@ -17,12 +17,6 @@ Chat with multiple PDF documents using the power of **LangChain**, **OpenAI**, a
 
 ---
 
-## 🖼️ Demo Preview
-
-![demo](https://user-images.githubusercontent.com/your-gif-or-screenshot.gif)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend/UI**: Streamlit
